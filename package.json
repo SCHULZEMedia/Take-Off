@@ -1,0 +1,13 @@
+{
+  "name": "Take-Off",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/SCHULZEMedia/Take-Off/issues"
+  }
+}
